@@ -1,1 +1,1 @@
-# .github
+Payrous is a blockchain-based payroll management system implemented as a smart contract that enables organizations to efficiently handle payments to multiple employees using both native cryptocurrency and ERC20 tokens. The contract is designed to be deployed through a factory pattern, allowing each organization to have its own instance of the payment system.

@@ -1,12 +1,17 @@
-## Hi there 👋
+##   Payrous 🏦
 
-<!--
 
-**Here are some ideas to get you started:**
+![Payrous](https://res.cloudinary.com/blackadam/image/upload/v1737998786/Screenshot_2025-01-27_at_18.21.55_v38ecj.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Payrous is a blockchain-based payroll management system implemented as a smart contract that enables organizations to efficiently handle payments to multiple employees using both native cryptocurrency and ERC20 tokens. The contract is designed to be deployed through a factory pattern, allowing each organization to have its own instance of the payment system.
+
+
+ **Join waitlist** [here](https://www.payrous.com/)
+![payrous waitlist page](https://res.cloudinary.com/blackadam/image/upload/v1737999004/waitlist_1_ne1c79.png)
+
+
+
+
+
+
+
